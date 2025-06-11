@@ -1,0 +1,5 @@
+.venv_ac/
+config/.ipynb_checkpoints/
+data/
+notebooks/
+src/__pycache__/
